@@ -46,10 +46,8 @@ export const texts = [
         lang:"tr",
         title:"Okçu ile Aslan",
         text:`Zamanın birinde, okçuluğu ile ünlü bir avcı, avlanmak için ormana gitmiş. Avcıyı gören tüm hayvanlar ondan korkarak kaçışmışlar. Okçu, insanlar arasında nasıl namlı bir avcıysa, aslan da kendi ormanında o kadar namlı bir avcıymış. Bu nedenle avcıyı görünce kaçmamış. Avcıya doğru yönelerek, ona meydan okumuş.
-
-        Aslanın meydan okumasına sevinmiş okçu. “Av kendi ayağıyla önüme geldi” diye düşünmüş. Hemen okunu yerleştirip yayını germiş. Tam oku fırlatacağı sırada “Habercimin sana bir haberi var.” diyerek okunu fırlatmış. Ok aslanın gövdesine saplanmış. Aslan saplanan okun acısı ile kendini çalılıkların içine atmış. Çalılığın içinde saklanarak okçudan kurtulmayı düşünürken, tilki ile göz göze gelmişler.
-        
-        Tilki, aslanın onu yaralayan okçudan kaçtığını anlayınca, “İşte aradığım fırsat.”diyerek, aslanın geriye dönmesi ve sonuna kadar savaşması gerektiği konusunda onu cesaretlendirip kışkırtmaya çalışmış. Böylece herkesin ve özellikle kendisinin korktuğu büyük bir düşmandan kurtulabilmeyi ümit ediyormuş.`,
+Aslanın meydan okumasına sevinmiş okçu. “Av kendi ayağıyla önüme geldi” diye düşünmüş. Hemen okunu yerleştirip yayını germiş. Tam oku fırlatacağı sırada “Habercimin sana bir haberi var.” diyerek okunu fırlatmış. Ok aslanın gövdesine saplanmış. Aslan saplanan okun acısı ile kendini çalılıkların içine atmış. Çalılığın içinde saklanarak okçudan kurtulmayı düşünürken, tilki ile göz göze gelmişler.
+Tilki, aslanın onu yaralayan okçudan kaçtığını anlayınca, “İşte aradığım fırsat.”diyerek, aslanın geriye dönmesi ve sonuna kadar savaşması gerektiği konusunda onu cesaretlendirip kışkırtmaya çalışmış. Böylece herkesin ve özellikle kendisinin korktuğu büyük bir düşmandan kurtulabilmeyi ümit ediyormuş.`,
         res:"https://www.masaloku.net/okcu-ile-aslan"
     },
     {
@@ -112,20 +110,22 @@ export const texts = [
         id:15,
         lang:"en",
         title:"The Father",
-        text:`THE man whose story is here to be told was the wealthiest and most influential person in his parish; his name was Thord Overaas. He appeared in the priest's study one day, tall and earnest. "I have gotten a son," said he, "and I wish to present him for baptism."
-        "What shall his name be?"
-        "Finn,—after my father."
-        "And the sponsors?"
-        They were mentioned, and proved to be the best men and women of Thord's relations in the parish.
-        "Is there anything else?" inquired the priest, and looked up.
-        The peasant hesitated a little.
-        "I should like very much to have him baptized by himself," said he, finally.
-        "That is to say on a week-day?"
-        "Next Saturday, at twelve o'clock noon."
-        "Is there anything else?" inquired the priest.
-        "There is nothing else;" and the peasant twirled his cap, as though he were about to go.
-        Then the priest rose. "There is yet this, however," said he, and walking toward Thord, he took him by the hand and looked gravely into his eyes: "God grant that the child may become a blessing to you!"
-        One day sixteen years later, Thord stood once more in the priest's study.`,
+        text:`THE man whose story is here to be told was the wealthiest and most influential person in his parish; his name was Thord Overaas. He appeared in the priest's study one day, tall and earnest. 
+"I have gotten a son," said he, 
+"and I wish to present him for baptism."
+"What shall his name be?"
+"Finn,—after my father." 
+"And the sponsors?"
+They were mentioned, and proved to be the best men and women of Thord's relations in the parish.
+"Is there anything else?" inquired the priest, and looked up.
+The peasant hesitated a little.
+"I should like very much to have him baptized by himself," said he, finally.
+"That is to say on a week-day?"
+"Next Saturday, at twelve o'clock noon."
+"Is there anything else?" inquired the priest.
+"There is nothing else;" and the peasant twirled his cap, as though he were about to go.
+Then the priest rose. "There is yet this, however," said he, and walking toward Thord, he took him by the hand and looked gravely into his eyes: "God grant that the child may become a blessing to you!"
+One day sixteen years later, Thord stood once more in the priest's study.`,
         res:"https://americanliterature.com/author/bjrnstjerne-bjrnson/short-story/the-father"
     },
     {
@@ -140,21 +140,20 @@ export const texts = [
         lang:"en",
         title:"The Selfish Giant",
         text:`Every afternoon, as they were coming from school, the children used to go and play in the Giant's garden.
-        It was a large lovely garden, with soft green grass. Here and there over the grass stood beautiful flowers like stars, and there were twelve peach-trees that in the spring-time broke out into delicate blossoms of pink and pearl, and in the autumn bore rich fruit. The birds sat on the trees and sang so sweetly that the children used to stop their games in order to listen to them. "How happy we are here!" they cried to each other.
-        One day the Giant came back. He had been to visit his friend the Cornish ogre, and had stayed with him for seven years. After the seven years were over he had said all that he had to say, for his conversation was limited, and he determined to return to his own castle. When he arrived he saw the children playing in the garden.`,
+It was a large lovely garden, with soft green grass. Here and there over the grass stood beautiful flowers like stars, and there were twelve peach-trees that in the spring-time broke out into delicate blossoms of pink and pearl, and in the autumn bore rich fruit. The birds sat on the trees and sang so sweetly that the children used to stop their games in order to listen to them. "How happy we are here!" they cried to each other.
+One day the Giant came back. He had been to visit his friend the Cornish ogre, and had stayed with him for seven years. After the seven years were over he had said all that he had to say, for his conversation was limited, and he determined to return to his own castle. When he arrived he saw the children playing in the garden.`,
         res:"https://americanliterature.com/author/oscar-wilde/short-story/the-selfish-giant"
     },
     {
         id:18,
         lang:"en",
         title:"The Coming of the King",
-        text:`Some children were at play in their play-ground one
-        day, when a herald rode through the town, blowing a trumpet, and crying aloud, “The King! the King passes by this road to-day. Make ready for the King!”
-        The children stopped their play, and looked at one another.
-        “Did you hear that?” they said. “The King is coming. He may look over the wall and see our playground; who knows? We must put it in order.”
-        The playground was sadly dirty, and in the corners were scraps of paper and broken toys, for these were careless children. But now, one brought a hoe, and another a rake, and a third ran to fetch the wheelbarrow from behind the garden gate. They labored hard, till at length all was clean and tidy.
-        “Now it is clean!” they said; “but we must make it pretty, too, for kings are used to fine things; maybe he would not notice mere cleanness, for he may have it all the time.”
-        Then one brought sweet rushes and strewed them on the ground; and others made garlands of oak leaves and pine tassels and hung them on the walls; and the littlest one pulled marigold buds and threw them all about the playground, “to look like gold,” he said.`,
+        text:`Some children were at play in their play-ground one day, when a herald rode through the town, blowing a trumpet, and crying aloud, “The King! the King passes by this road to-day. Make ready for the King!”
+The children stopped their play, and looked at one another.
+“Did you hear that?” they said. “The King is coming. He may look over the wall and see our playground; who knows? We must put it in order.”
+The playground was sadly dirty, and in the corners were scraps of paper and broken toys, for these were careless children. But now, one brought a hoe, and another a rake, and a third ran to fetch the wheelbarrow from behind the garden gate. They labored hard, till at length all was clean and tidy.
+“Now it is clean!” they said; “but we must make it pretty, too, for kings are used to fine things; maybe he would not notice mere cleanness, for he may have it all the time.” 
+Then one brought sweet rushes and strewed them on the ground; and others made garlands of oak leaves and pine tassels and hung them on the walls; and the littlest one pulled marigold buds and threw them all about the playground, “to look like gold,” he said.`,
         res:"https://americanliterature.com/author/laura-e-richards/short-story/the-coming-of-the-king"
     },
     {
@@ -162,17 +161,17 @@ export const texts = [
         lang:"en",
         title:"The Man in the Moon",
         text:`The Man in the Moon came tumbling down,
-        And enquired the way to Norwich;
-        He went by the south and burned his mouth
-        With eating cold pease porridge!
-        What! Have you never heard the story of the Man in the Moon? Then I must surely tell it, for it is very amusing, and there is not a word of truth in it.
-        The Man in the Moon was rather lonesome, and often he peeked over the edge of the moon and looked down upon the earth and envied all the people who lived together, for he thought it must be vastly more pleasant to have companions to talk to than to be shut up in a big planet all by himself, where he had to whistle to keep himself company.
-        One day he looked down and saw an alderman sailing up through the air towards him. This alderman was being translated (instead of being transported, owing to a misprint in the law) and as he came near the Man in the Moon called to him and said,
-        "How is everything down on the earth?"
-        "Everything is lovely," replied the alderman, "and I would n't leave it if I was not obliged to."
-        "What 's a good place to visit down there?" enquired the Man in the Moon.
-        "Oh, Norwich is a mighty fine place," returned the alderman, "and it 's famous for its pease porridge;" and then he sailed out of sight and left the Man in the Moon to reflect upon what he had said.
-        The words of the alderman made him more anxious than ever to visit the earth, and so he walked thoughtfully home, and put a few lumps of ice in the stove to keep him warm, and sat down to think how he should manage the trip.`,
+And enquired the way to Norwich;
+He went by the south and burned his mouth
+With eating cold pease porridge!
+What! Have you never heard the story of the Man in the Moon? Then I must surely tell it, for it is very amusing, and there is not a word of truth in it.
+The Man in the Moon was rather lonesome, and often he peeked over the edge of the moon and looked down upon the earth and envied all the people who lived together, for he thought it must be vastly more pleasant to have companions to talk to than to be shut up in a big planet all by himself, where he had to whistle to keep himself company.
+One day he looked down and saw an alderman sailing up through the air towards him. This alderman was being translated (instead of being transported, owing to a misprint in the law) and as he came near the Man in the Moon called to him and said,
+"How is everything down on the earth?"
+"Everything is lovely," replied the alderman, "and I would n't leave it if I was not obliged to."
+"What 's a good place to visit down there?" enquired the Man in the Moon.
+"Oh, Norwich is a mighty fine place," returned the alderman, "and it 's famous for its pease porridge;" and then he sailed out of sight and left the Man in the Moon to reflect upon what he had said.
+The words of the alderman made him more anxious than ever to visit the earth, and so he walked thoughtfully home, and put a few lumps of ice in the stove to keep him warm, and sat down to think how he should manage the trip.`,
         res:"https://americanliterature.com/author/l-frank-baum/short-story/the-man-in-the-moon"
     },
     {
@@ -180,8 +179,8 @@ export const texts = [
         lang:"en",
         title:"The Last Leaf",
         text:`In a little district west of Washington Square the streets have run crazy and broken themselves into small strips called "places." These "places" make strange angles and curves. One Street crosses itself a time or two. An artist once discovered a valuable possibility in this street. Suppose a collector with a bill for paints, paper and canvas should, in traversing this route, suddenly meet himself coming back, without a cent having been paid on account!
-        So, to quaint old Greenwich Village the art people soon came prowling, hunting for north windows and eighteenth-century gables and Dutch attics and low rents. Then they imported some pewter mugs and a chafing dish or two from Sixth Avenue, and became a "colony."
-        At the top of a squatty, three-story brick Sue and Johnsy had their studio. "Johnsy" was familiar for Joanna. One was from Maine; the other from California. They had met at the table d'hte of an Eighth Street "Delmonico's," and found their tastes in art, chicory salad and bishop sleeves so congenial that the joint studio resulted.`,
+So, to quaint old Greenwich Village the art people soon came prowling, hunting for north windows and eighteenth-century gables and Dutch attics and low rents. Then they imported some pewter mugs and a chafing dish or two from Sixth Avenue, and became a "colony."
+At the top of a squatty, three-story brick Sue and Johnsy had their studio. "Johnsy" was familiar for Joanna. One was from Maine; the other from California. They had met at the table d'hte of an Eighth Street "Delmonico's," and found their tastes in art, chicory salad and bishop sleeves so congenial that the joint studio resulted.`,
         res:"https://americanliterature.com/author/o-henry/short-story/the-last-leaf"
     },
 ];
