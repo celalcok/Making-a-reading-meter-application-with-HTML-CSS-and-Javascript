@@ -81,7 +81,7 @@ buttonStart.addEventListener("click", () => {
         timer.style.display="none";
         timer.innerText="";
         showResultPanelButton.style.display="block";
-        console.log(selectedTitle);
+
         // Clear Interval and Reset timerNum
         clearInterval(interval)
         timerNum =0;
