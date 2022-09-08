@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Readingmeter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="header">
+    <h1>Readingmeter</h1>
+</div>
+    <div class="main-container">
+        <div class="text-container">
+            <h1 id="title"></h1>
+            <p id="text"></p>
+        </div>
+        <div class="button-container">
+            <button id="button-start">START</button>
+        </div>
+        <p id="resource"></p>
+    </div>
+    <div id="display">
+        <p id = "message"></p>
+        <p id="timer">00:00</p>
+        <button id="show-result-panel-button" class="save-button">Save Result</button>
+    </div>
+    
+    <div id="save-result-panel" class="save-result-panel">
+       <div class="form-group">
+        <label for="">Fullname</label>
+        <input id="full-name" type="text" placeholder="Enter Fullname">
+       </div>
+        <button id="save-result-button">Save</button>
+        
+
+    </div>
+    <div id="result-table" >
+        <button id="clear-list-button">Clear List</button>
+        <table class="result-table">
+        
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Date</th>
+                <th>Name</th>
+                <th>Text Title</th>
+                <th>Speed</th>
+            </tr>
+        </thead>
+        <tbody id="result-list">
+            
+        </tbody>
+        <tfoot>
+           
+        </tfoot>
+    </table>
+
+    </div>
+    <script src="script.js" type="module"></script>
+</body>
+</html>
