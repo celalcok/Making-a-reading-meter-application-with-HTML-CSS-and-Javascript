@@ -44,9 +44,13 @@ export const texts = [
     {
         id:7,
         lang:"tr",
-        title:"Düşünce Gücüyle Sorun Çözme",
-        text:"Yüce Yaratıcının evrende işleyen bir kanunu var. O kanuna göre; sebeplere tabi olmak gerek. Ancak bazen sebepler felç edilir ve Evrenin Sahibi’nin planı işler, insan olarak birçok konuda acizliğimizi fark etmek zorundayız. Kişisel gelişim diyerek, insanların egosunun şişirilmesine ve bencil ruhların ortaya çıkmasına sebep olunuyor. Tabiî ki gelişeceğiz. Düşünce tekniklerini, yönetim tekniklerini, iletişim tekniklerini öğrenecek ve uygulayacağız. Ancak bunları uygularken O’na sığınacak ve yardım dileyeceğiz. Samimi olacağız. Yüreklere hitap edeceğiz. Kendi menfaatlerimizi bir kenara bırakacak, insana insan olduğu için saygı duyacağız. “Ben başarırım, ben yaparım, sınırsız güç, içinizdeki dev” gibi söylemler risklidir. Gururlanmak, insanın kendini üstün görmesi aklın kıtlığına işarettir. Ateş düştüğü yeri yakar; bencillik, ateş çevresini de yakar; bir parça fedakârlık, ateş beni de yakar ise olgunluk mertebesidir. Üçüncü düşüncenin temsilcisi olmaya gayret edelim…",
-        res:"https://onlinekitapoku.com/dusunce-gucuyle-sorun-cozme-olumlu-ve-sistemli-dusunce-sorun-cozmenin-anahtaridir/"
+        title:"Okçu ile Aslan",
+        text:`Zamanın birinde, okçuluğu ile ünlü bir avcı, avlanmak için ormana gitmiş. Avcıyı gören tüm hayvanlar ondan korkarak kaçışmışlar. Okçu, insanlar arasında nasıl namlı bir avcıysa, aslan da kendi ormanında o kadar namlı bir avcıymış. Bu nedenle avcıyı görünce kaçmamış. Avcıya doğru yönelerek, ona meydan okumuş.
+
+        Aslanın meydan okumasına sevinmiş okçu. “Av kendi ayağıyla önüme geldi” diye düşünmüş. Hemen okunu yerleştirip yayını germiş. Tam oku fırlatacağı sırada “Habercimin sana bir haberi var.” diyerek okunu fırlatmış. Ok aslanın gövdesine saplanmış. Aslan saplanan okun acısı ile kendini çalılıkların içine atmış. Çalılığın içinde saklanarak okçudan kurtulmayı düşünürken, tilki ile göz göze gelmişler.
+        
+        Tilki, aslanın onu yaralayan okçudan kaçtığını anlayınca, “İşte aradığım fırsat.”diyerek, aslanın geriye dönmesi ve sonuna kadar savaşması gerektiği konusunda onu cesaretlendirip kışkırtmaya çalışmış. Böylece herkesin ve özellikle kendisinin korktuğu büyük bir düşmandan kurtulabilmeyi ümit ediyormuş.`,
+        res:"https://www.masaloku.net/okcu-ile-aslan"
     },
     {
         id:8,
