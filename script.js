@@ -45,7 +45,6 @@ function init(){
 lang.addEventListener("change", ()=>{
     language = lang.checked?"tr":"en";
     filteredList = texts.filter(text => text.lang === language)
-    console.log(filteredListInterfaceLang);
 })
 // Add EventListener to Button
 buttonStart.addEventListener("click", () => {
