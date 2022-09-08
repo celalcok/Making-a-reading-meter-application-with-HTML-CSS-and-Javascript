@@ -61,6 +61,7 @@ buttonStart.addEventListener("click", () => {
         message.style.display="none";
         buttonStart.innerText="STOP";
         resultTable.style.display="none";
+        showResultPanelButton.style.display ="none";
         // timerNum Start
         interval = setInterval(()=>{
             timer.innerText=formatTimer(timerNum);
