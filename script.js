@@ -44,13 +44,13 @@ function init(){
 
 // Add EventListener to Button
 buttonStart.addEventListener("click", () => {
-    randomInteger = Math.floor(Math.random()*texts.length);
-    selectedTitle = texts[randomInteger].title;
-    selectedText = texts[randomInteger].text;
-    selectedResource = texts[randomInteger].res;
     
     //Start
     if(buttonStart.innerText.toLocaleLowerCase() ==="Start".toLocaleLowerCase()){
+        randomInteger = Math.floor(Math.random()*texts.length);
+        selectedTitle = texts[randomInteger].title;
+        selectedText = texts[randomInteger].text;
+        selectedResource = texts[randomInteger].res;
         text.innerText = selectedText;
         title.innerText = selectedTitle;
         resource.innerText ="Resource: "+ selectedResource;
@@ -80,14 +80,10 @@ buttonStart.addEventListener("click", () => {
         timer.style.display="none";
         timer.innerText="";
         showResultPanelButton.style.display="block";
+        console.log(selectedTitle);
         // Clear Interval and Reset timerNum
         clearInterval(interval)
         timerNum =0;
-
-
-        // setTimeout(()=>{
-        //     message.innerText="To start click START buttton";
-        // },4000)
     }
 });
 
