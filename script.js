@@ -161,7 +161,7 @@ function saveResult(){
         saveResultPanel.style.display="none";
         resultTable.style.display="block";
         buttonStart.style.display="block";
-        
+        lang.style.display="block";
     }, 500);
     showResultList();
 }
