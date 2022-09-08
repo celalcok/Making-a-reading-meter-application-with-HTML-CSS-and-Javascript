@@ -31,7 +31,6 @@ let year = date.getFullYear();
 let dateNow = day+"/"+month+"/"+year;
 let language=lang.checked?"tr":"en";
 let filteredList=texts.filter(text => text.lang === language);
-let filteredListInterfaceLang = interface_lang.filter(l=>l.lang === language);
 console.log(filteredList);
 
 // Initialize
@@ -46,7 +45,6 @@ function init(){
 lang.addEventListener("change", ()=>{
     language = lang.checked?"tr":"en";
     filteredList = texts.filter(text => text.lang === language)
-    filteredListInterfaceLang = interface_lang.filter(l=>l.lang === language);
     console.log(filteredListInterfaceLang);
 })
 // Add EventListener to Button

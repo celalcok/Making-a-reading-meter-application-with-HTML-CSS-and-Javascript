@@ -1,4 +1,3 @@
-import {speed} from "./script.js"
 export const texts = [
     {
         id:1,
