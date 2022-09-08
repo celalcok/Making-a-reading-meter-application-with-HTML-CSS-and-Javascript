@@ -15,7 +15,7 @@ let fullName = document.getElementById("full-name");
 let resultList = document.getElementById("result-list");
 let resultTable = document.getElementById("result-table");
 let clearListButton = document.getElementById("clear-list-button");
-
+let lang = document.getElementById("lang");
 
 
 let randomInteger;
@@ -30,7 +30,9 @@ let day = date.getDay();
 let month = date.getMonth();
 let year = date.getFullYear();
 let dateNow = day+"/"+month+"/"+year;
-
+let language=lang.checked?"tr":"en";
+let filteredList=texts.filter(text => text.lang === language);
+console.log(filteredList);
 
 // Initialize
 function init(){
@@ -41,16 +43,20 @@ function init(){
     message.innerText="To start click START buttton";
     getFromLocalStorage();
 }
-
+lang.addEventListener("change", ()=>{
+    language = lang.checked?"tr":"en";
+    filteredList = texts.filter(text => text.lang === language)
+    console.log(filteredList);
+})
 // Add EventListener to Button
 buttonStart.addEventListener("click", () => {
     
     //Start
     if(buttonStart.innerText.toLocaleLowerCase() ==="Start".toLocaleLowerCase()){
-        randomInteger = Math.floor(Math.random()*texts.length);
-        selectedTitle = texts[randomInteger].title;
-        selectedText = texts[randomInteger].text;
-        selectedResource = texts[randomInteger].res;
+        randomInteger = Math.floor(Math.random()*filteredList.length);
+        selectedTitle = filteredList[randomInteger].title;
+        selectedText = filteredList[randomInteger].text;
+        selectedResource = filteredList[randomInteger].res;
         text.innerText = selectedText;
         title.innerText = selectedTitle;
         resource.innerText ="Resource: "+ selectedResource;
@@ -62,6 +68,7 @@ buttonStart.addEventListener("click", () => {
         buttonStart.innerText="STOP";
         resultTable.style.display="none";
         showResultPanelButton.style.display ="none";
+        lang.style.display="none";
         // timerNum Start
         interval = setInterval(()=>{
             timer.innerText=formatTimer(timerNum);
@@ -79,6 +86,8 @@ buttonStart.addEventListener("click", () => {
         buttonStart.innerText="START";
         message.innerText = "Your reading speed is "+speed+" words per minute."
         timer.style.display="none";
+        lang.style.display="block";
+
         timer.innerText="";
         showResultPanelButton.style.display="block";
 
@@ -93,6 +102,8 @@ showResultPanelButton.addEventListener("click", () => {
     saveResultPanel.style.display="flex";
     showResultPanelButton.style.display ="none"
     buttonStart.style.display="none";
+    lang.style.display="none";
+
 });
 
 
