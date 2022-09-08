@@ -1,6 +1,5 @@
 import {texts} from "./data.js"
 
-
 let persons = localStorage.getItem('persons')?localStorage.getItem('persons'):[];
 let buttonStart = document.getElementById("button-start");
 let title = document.getElementById("title");
@@ -32,6 +31,7 @@ let year = date.getFullYear();
 let dateNow = day+"/"+month+"/"+year;
 let language=lang.checked?"tr":"en";
 let filteredList=texts.filter(text => text.lang === language);
+let filteredListInterfaceLang = interface_lang.filter(l=>l.lang === language);
 console.log(filteredList);
 
 // Initialize
@@ -40,13 +40,14 @@ function init(){
     text.style.display="none";
     resource.style.display="none";
     timer.style.display="none";
-    message.innerText="To start click START buttton";
+    message.innerText="To start click START button";
     getFromLocalStorage();
 }
 lang.addEventListener("change", ()=>{
     language = lang.checked?"tr":"en";
     filteredList = texts.filter(text => text.lang === language)
-    console.log(filteredList);
+    filteredListInterfaceLang = interface_lang.filter(l=>l.lang === language);
+    console.log(filteredListInterfaceLang);
 })
 // Add EventListener to Button
 buttonStart.addEventListener("click", () => {
