@@ -23,23 +23,23 @@ export const texts = [
     {
         id:4,
         lang:"tr",
-        title:"Türkiye",
-        text:"Türkiye veya resmî adıyla Türkiye Cumhuriyeti, topraklarının büyük bölümü Anadolu'da, küçük bir bölümü ise Balkan Yarımadası'nın güneydoğu uzantısı olan Trakya'da yer alan bir ülkedir. Kuzeybatıda Bulgaristan, batıda Yunanistan, kuzeydoğuda Gürcistan, doğuda Ermenistan, İran ve Azerbaycan'ın ekslav toprağı Nahçıvan, güneydoğuda ise Irak ve Suriye ile komşudur. Güneyini Kıbrıs Adası ve Akdeniz, batısını Ege Denizi ve kuzeyini Karadeniz çevreler. Marmara Denizi ise İstanbul Boğazı ve Çanakkale Boğazı ile birlikte Anadolu'yu Trakya'dan, yani Asya'yı Avrupa'dan ayırır. Türkiye, Avrupa ve Asya kıtalarının kavşak noktasında yer alması nedeniyle önemli bir jeostratejik güce sahiptir.",
-        res:"https://tr.wikipedia.org/wiki/Türkiye"
+        title:"Birlikten Kuvvet Doğar",
+        text:"Bu olayın nasıl sonuçlanacağını beş çocukta merak ediyormuş. Ama kimse kıramayınca babası söze girmiş. Yüzünde bir tebessüm ile çocuklarına “Gördünüz mü? Ne yaparsanız yapın birlikte olanları daha zor kırarsınız. Ben yakında bu dünyadan göçeceğim. Sizler de bir arada olarak tüm zorlukların üstesinden gelebilirsiniz. Tek başınıza kalırsanız zorluklar sizi çiğneyecektir. Ama bu ip ile birbirinize bağlanırsanız kim gelirse gelsin size zarar veremez, böylece tüm problemlerinizi sorunsuz bir şekilde çözebilirsiniz. Bu yüzden ne olursanız olun aranız kötü bile olsa mutlaka birlik olun” demiş. Bu sözleri söyledikten sonra bazı çocuklarının gözünden yaş gelmiş. Bu durum karşısında babası tüm çocuklarını teker teke öpmüş ve hepsine aynanda sarılarak onlara her zaman birlik olmaları gerektiğini hatırlatmış.",
+        res:"https://masaloku.com.tr/birlikten-kuvvet-dogar/"
     },
     {
         id:5,
         lang:"tr",
-        title:"Malatya",
-        text:"Malatya (Ermenice: Մալաթիա Malat'ia; Kürtçe: Meletî; Grekçe: Μελιτηνή Melitini), Türkiye'nin büyükşehir statüsündeki otuz ilinden biridir. Doğu Anadolu Bölgesi'ndeki Yukarı Fırat Bölümü'nde yer alır. 13 ilçesi ve 718 mahallesi bulunan 2021 TÜİK verilerine göre Malatya, 808.692 kişilik nüfusuyla Türkiye'nin yirmi sekizinci en yüksek nüfuslu ilidir. Doğusu Elazığ ve Diyarbakır, güneyi Adıyaman ve Kahramanmaraş, batısında Kayseri , kuzeyi ise Sivas ve Erzincan ile çevrilidir. İlk olarak Hitit döneminde kurulmuştur. O günden bugüne el değiştirerek yıkılıp yeniden yapılarak günümüze kadar gelmiştir.Malatya, kayısı diyarı olarak bilinir. İlde yetişen kayısılar, dünya genelinde ünlüdür ve kuru kayısı üretiminin %80'ini Malatya Ovası’nda bulunan kayısı bahçeleri sağlar. Büyükşehir yasası ile 2014 yerel seçimlerinin ardından büyükşehir statüsüne kavuşmuştur",
-        res:"https://en.wikipedia.org/wiki/Malatya"
+        title:"Deve Kuşu ile Aslan",
+        text:"Aslan bu tekme karşısında bayılmış yere düşmüş. Deve Kuşu neye tekme attığını anlamak için hemen kafasını kumdan çıkarmış. Yerde yatan güçlü Aslanı görünce birden gaza gelmiş. Aslanın öldüğünü sanmış. Hemen gidip arkadaşlarını çağırmış. Tüm hayvanlar Aslanın etrafına toplanmış. Deve Kuşu anlatıyormuş. Bana sataşınca bende ağzının payını vermek istedim. Yerden yere sürükledim tarzında laflar ediyormuş. Diğer hayvanlarda deve kuşunu tebrik edip onun yerinde olmak istemişler. Bende olsaydım böyle yapardım diyen hayvanlar çokmuş. Birden Aslan kendine gelmeye başlamış. Etrafında Aslanın kımıldadığını gören hayvanlar geri çekilmeye başlamışlar. Tabi deve kuşunun arkası dönük olduğundan haberi yokmuş. Birden kükremeye başlamış. Tüm hayvanlar korkudan ne yapacağını bilememiş. Kaçışmaya başlamışlar. Karnı tok olan Aslan ise sakince uzaklaşmış oradan.",
+        res:"https://masaloku.com.tr/deve-kusu-ile-aslan-hikayesi/"
     },
     {
         id:6,
         lang:"tr",
-        title:"Kayısı",
-        text:"Prunus armeniaca 8-12 metre (26-39 ft) 40 santimetre (16 in) kadar gövde ile çapında ve yoğun, yayılan bir kanopi. Yapraklar oval, 5-9 santimetre (2,0-3,5 in) uzun ve 4-8 santimetre (1,6-3,1 in) genişliğinde, yuvarlak tabanlı, sivri uçlu ve ince tırtıklı kenarlı küçük bir ağaçtır. Çiçekler 2-45 santimetre (0,8-17,7 in) çapında, beş beyaz ila pembemsi yaprakları ile; İlkbaharda yapraklardan önce tek başlarına veya çiftler halinde üretilirler. Küçük bir şeftaliye benzer bir sert çekirdekli 15-25 santimetre (5,9-9,8 in) çapında (bazı modern çeşitlerde daha büyük) meyveleri (drupa) vardır. sarıdan turuncuya, genellikle güneşe en çok maruz kalan tarafta kırmızı renkte; yüzeyi pürüzsüz (botanik olarak tüysüz olarak tanımlanır) veya kadifemsi ve çok kısa tüylü (botanik olarak: tüylü) olabilir. Meyve eti genellikle serttir ve çok sulu değildir. Tadı tatlıdan ekşiye kadar değişebilir. Tek tohum, bir taraftan aşağı doğru inen üç sırt dışında, grenli, pürüzsüz bir dokuya sahip, genellikle 'taş' olarak adlandırılan sert, taşlı bir kabuğun içine yerleştirilmiştir ",
-        res:"https://tr.wikipedia.org/wiki/Kayısı"
+        title:"İnatçı Fil Yavrusu",
+        text:"Bu sefer anne fil 'gel beraber dolaşalım’ demiş yavru file. Ancak yavru fil annesine de aynı şekilde yanıt vermiş. ‘Hayır ben sizinle dolaşmak istemiyorum.’ Demiş inatçı bir tavır ile. Bu sefer kardeşleri inatçı filin de kendileri ile gelmesi için şanslarını denemek istemişler. 'Sen de bizimle çok eğleneceksin' demişler. Fakat yavru fil yine hayır cevabını vermiş. Artık aile yavru fili bir türlü ikna edemeyeceklerini anlamış. Bunun üzerine anne ve baba fil diğer çocuklarını da alarak dolaşmaya çıkmışlar. Yavru fil ise onlarla gitmemiş. Ailesi gittikten sonra da yavru fil kendi başına oyunlar oynamış ve şarkılar söylemiş. Ancak bir zaman sonra tek başına vakit geçirmekten de sıkılmış. Etrafına baktığında ailesini de görememiş. Ailesini göremeyince daha da çok canı sıkılmış. Oyunlar oynasa da tek başına olmak yavru filin farklı şeyler düşünmesine neden olmuş. Artık yalnızlıktan o kadar sıkılmış ki artık fil olmak istemediğine karar vermiş. ‘Ben küçük bir fil olmak istemiyorum artık. Küçük fil olmak çok kötü bir şeymiş.’ Diye söyleniyormuş. Bir yandan da kendine sorular soruyormuş. ‘Küçük fil olmayacaksam o zaman ne olabilirim?’ demiş. Bu sorular aklını kurcalarken bir yandan da çevresine bakınıyormuş.",
+        res:"https://masaloku.com.tr/inatci-fil-yavrusu-masali/"
     },
     {
         id:7,
